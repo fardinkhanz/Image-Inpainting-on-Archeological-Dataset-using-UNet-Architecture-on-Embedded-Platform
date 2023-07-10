@@ -36,7 +36,7 @@ Include any references to related papers, datasets, or resources that were used 
 * Image Inpainting using Partial Convolution. [paper link](https://arxiv.org/abs/2108.08791)
 * Dataset was provided by my university ie KLE Technological unicversity.
 ## License
-Specify the license under which the code and resources in this repository are made available.
+This project is licensed under the MIT License.
 
 
 
