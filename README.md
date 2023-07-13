@@ -1,4 +1,4 @@
-# Image-Inpainting-on-Archeological-Dataset-using-UNet-Architecture-on-Embedded-Platform
+# Image Inpainting on Archeological Dataset using UNet Architecture on Embedded Platform
 This repository contains the implementation and evaluation of a novel approach for enhancing the quality of picture inpainting in archaeological datasets. The proposed method focuses on enhancing the UNet architecture by incorporating the MS-SSIM loss function, which effectively denoises the output. The goal is to reconstruct damaged or missing portions of images commonly found in archaeological photographs due to the passage of time or excavation procedures.
 
 ## Introduction
